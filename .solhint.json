@@ -1,0 +1,9 @@
+{
+    "extends": "default",
+    "rules": {
+        "avoid-throw": false,
+        "avoid-suicide": "warn",
+        "avoid-sha3": "warn",
+        "indent": ["warn", 2]
+    }
+}
